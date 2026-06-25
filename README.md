@@ -13,9 +13,4 @@
 # 🚀 Python-Programming-Tasks
 Task 1: Hangman Game
 Task 2: Basic Chatbot
-
-# 🤔 How to Run
-python hangman.py
-python chatbot.py
-
 By: CodesByMariam
