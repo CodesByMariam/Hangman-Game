@@ -11,6 +11,7 @@
    → Responds to basic greetings and questions
 
 # 🚀 Python-Programming-Tasks
-Task 1: Hangman Game
-Task 2: Basic Chatbot
+Task 1: Hangman Game  
+Task 2: Basic Chatbot  
+
 By: CodesByMariam 
